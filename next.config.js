@@ -9,7 +9,7 @@ nextraConfig.assetPrefix = "./"
 
 const nextConfig = {
   ...nextraConfig,
-  basePath: "/project-starter",
+  basePath: "/new-project",
   images: {
     unoptimized: true,
   },
